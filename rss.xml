@@ -5,8 +5,15 @@
         <description><![CDATA[lat]]></description>
         <link>https://thegrid.ai/lat/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 09 Oct 2015 04:05:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Oct 2015 04:05:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lat/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gravita Website]]></title>
+            <description><![CDATA[<article><h1>Gravita Website</h1><p>The new gravita.co website.</p></article>]]></description>
+            <link>https://www.behance.net/gallery/23081617/Gravita-Website</link>
+            <guid isPermaLink="false">9a76f202-e871-403d-834a-b5b20160e049</guid>
+            <pubDate>Fri, 09 Oct 2015 04:04:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Grid: Platform]]></title>
             <description><![CDATA[<article><h1>The Grid: Platform</h1><p>Working designs of the Grid platform. A collection of conceptualisations of what is currently being developed. *Subject to change for something more awesome.</p></article>]]></description>
