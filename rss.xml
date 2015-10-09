@@ -5,8 +5,15 @@
         <description><![CDATA[lat]]></description>
         <link>https://thegrid.ai/lat/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 09 Oct 2015 04:07:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Oct 2015 04:07:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lat/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Medium Brand Development]]></title>
+            <description><![CDATA[<article><h1>Medium Brand Development</h1><p>Brand development of Medium.com</p></article>]]></description>
+            <link>https://www.behance.net/gallery/7226653/Medium-Brand-Development</link>
+            <guid isPermaLink="false">b3d34787-d194-4eb3-9b80-7e03b2fe7795</guid>
+            <pubDate>Fri, 09 Oct 2015 04:04:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Standy]]></title>
             <description><![CDATA[<article><h1>Standy</h1><p>An experimental product while at @ObviousCorp. Your very own personal dashboard. A more efficient way to update, motivate and communicate with the rest of the team.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>Brightwire Brand</h1><p>We worked closely with the brilliant team at Brightwire to realign their brand purpose and deliver a collaborative space for readers to engage with writers.</p></article>]]></description>
             <link>https://www.behance.net/gallery/21931335/Brightwire-Brand</link>
             <guid isPermaLink="false">98f204a7-8dec-4b54-a640-b8a51501a171</guid>
-            <pubDate>Fri, 09 Oct 2015 04:04:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gravita Website]]></title>
-            <description><![CDATA[<article><h1>Gravita Website</h1><p>The new gravita.co website.</p></article>]]></description>
-            <link>https://www.behance.net/gallery/23081617/Gravita-Website</link>
-            <guid isPermaLink="false">9a76f202-e871-403d-834a-b5b20160e049</guid>
             <pubDate>Fri, 09 Oct 2015 04:04:42 GMT</pubDate>
         </item>
     </channel>
