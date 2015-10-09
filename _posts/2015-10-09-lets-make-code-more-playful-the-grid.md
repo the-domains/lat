@@ -36,8 +36,8 @@ app_links:
     type: web
 isBasedOnUrl: 'https://medium.com/the-grid/lets-make-code-more-playful-ccbaffdca6e2'
 title: "Let's Make Code More Playful! - The Grid"
-datePublished: '2015-10-09T04:04:02.520Z'
-dateModified: '2015-10-09T04:03:02.212Z'
+datePublished: '2015-10-09T04:04:41.210Z'
+dateModified: '2015-10-09T04:04:02.520Z'
 sourcePath: _posts/2015-10-09-lets-make-code-more-playful-the-grid.md
 published: true
 inFeed: true
