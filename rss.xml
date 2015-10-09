@@ -5,8 +5,15 @@
         <description><![CDATA[lat]]></description>
         <link>https://thegrid.ai/lat/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 09 Oct 2015 04:07:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Oct 2015 04:08:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lat/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The latest Tweets from Leigh Taylor (@lat). Winging it at design. AI wrangler. Code massager. Dealer of gifs. Easily distrac...unce unce unce. @theGrid</p>]]></description>
+            <link>https://twitter.com/lat</link>
+            <guid isPermaLink="false">7316ec30-76c8-416a-8004-9aa8e401049d</guid>
+            <pubDate>Fri, 09 Oct 2015 04:04:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Medium Brand Development]]></title>
             <description><![CDATA[<article><h1>Medium Brand Development</h1><p>Brand development of Medium.com</p></article>]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>GSS</h1><p>GSS (Grid Style Sheets) reimagines CSS layout & replaces the browser's layout engine with one that harnesses the Cassowary Constraint Solver - the same algorithm Apple uses to compute native layout.</p></article>]]></description>
             <link>https://www.behance.net/gallery/14367411/GSS</link>
             <guid isPermaLink="false">5fe2c9fb-32bb-4982-8db5-f5932621a3d0</guid>
-            <pubDate>Fri, 09 Oct 2015 04:04:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Brightwire Brand]]></title>
-            <description><![CDATA[<article><h1>Brightwire Brand</h1><p>We worked closely with the brilliant team at Brightwire to realign their brand purpose and deliver a collaborative space for readers to engage with writers.</p></article>]]></description>
-            <link>https://www.behance.net/gallery/21931335/Brightwire-Brand</link>
-            <guid isPermaLink="false">98f204a7-8dec-4b54-a640-b8a51501a171</guid>
             <pubDate>Fri, 09 Oct 2015 04:04:42 GMT</pubDate>
         </item>
     </channel>
