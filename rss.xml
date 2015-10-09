@@ -5,8 +5,22 @@
         <description><![CDATA[lat]]></description>
         <link>https://thegrid.ai/lat/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 09 Oct 2015 04:06:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Oct 2015 04:07:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lat/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://mir-s3-cdn-cf.behance.net/projects/404/20326265.5434366526990.png">]]></description>
+            <link>https://thegrid.ai/lat/349ed46e-a892-4e83-bc55-fd53af684e01/index.html</link>
+            <guid isPermaLink="false">349ed46e-a892-4e83-bc55-fd53af684e01</guid>
+            <pubDate>Fri, 09 Oct 2015 04:04:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[GSS]]></title>
+            <description><![CDATA[<article><h1>GSS</h1><p>GSS (Grid Style Sheets) reimagines CSS layout & replaces the browser's layout engine with one that harnesses the Cassowary Constraint Solver - the same algorithm Apple uses to compute native layout.</p></article>]]></description>
+            <link>https://www.behance.net/gallery/14367411/GSS</link>
+            <guid isPermaLink="false">5fe2c9fb-32bb-4982-8db5-f5932621a3d0</guid>
+            <pubDate>Fri, 09 Oct 2015 04:04:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Brightwire Brand]]></title>
             <description><![CDATA[<article><h1>Brightwire Brand</h1><p>We worked closely with the brilliant team at Brightwire to realign their brand purpose and deliver a collaborative space for readers to engage with writers.</p></article>]]></description>
@@ -61,20 +75,6 @@
             <description><![CDATA[<article><h1>Photoshop is not a design tool. - The Grid</h1><p>Photoshop is not a design tool. - The Grid - Medium</p></article>]]></description>
             <link>https://medium.com/the-grid/photoshop-is-not-a-design-tool-10489d3cc430</link>
             <guid isPermaLink="false">2111f344-025f-442d-bdd6-e5808417dbdc</guid>
-            <pubDate>Fri, 09 Oct 2015 04:04:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Let's Make Code More Playful! - The Grid]]></title>
-            <description><![CDATA[<article><h1>Let's Make Code More Playful! - The Grid</h1><p>Let's Make Code More Playful! - The Grid - Medium</p></article>]]></description>
-            <link>https://medium.com/the-grid/lets-make-code-more-playful-ccbaffdca6e2</link>
-            <guid isPermaLink="false">8a0bee1a-9ad6-473f-a38a-aaba58bab2d4</guid>
-            <pubDate>Fri, 09 Oct 2015 04:04:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Start of a Design Evolution - The Grid]]></title>
-            <description><![CDATA[<article><h1>The Start of a Design Evolution - The Grid</h1><p>The Start of a Design Evolution - The Grid - Medium</p></article>]]></description>
-            <link>https://medium.com/the-grid/the-start-of-design-evolution-c5435706540c</link>
-            <guid isPermaLink="false">32f48699-cad9-4f89-813a-4dc9875d2c9d</guid>
             <pubDate>Fri, 09 Oct 2015 04:04:41 GMT</pubDate>
         </item>
     </channel>
