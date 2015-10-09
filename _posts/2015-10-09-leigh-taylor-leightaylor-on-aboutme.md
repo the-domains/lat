@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://about.me/leigh.taylor'
 title: Leigh Taylor (leigh.taylor) on about.me
-datePublished: '2015-10-09T04:04:02.899Z'
-dateModified: '2015-10-09T04:02:56.929Z'
+datePublished: '2015-10-09T04:04:41.395Z'
+dateModified: '2015-10-09T04:04:02.899Z'
 sourcePath: _posts/2015-10-09-leigh-taylor-leightaylor-on-aboutme.md
 published: true
 inFeed: true
