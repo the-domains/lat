@@ -25,8 +25,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://www.behance.net/gallery/26329337/The-Grid-Platform'
 title: 'The Grid: Platform'
-datePublished: '2015-10-09T04:04:02.526Z'
-dateModified: '2015-10-09T04:02:45.234Z'
+datePublished: '2015-10-09T04:04:41.804Z'
+dateModified: '2015-10-09T04:04:02.526Z'
 sourcePath: _posts/2015-10-09-the-grid-platform.md
 published: true
 inFeed: true
