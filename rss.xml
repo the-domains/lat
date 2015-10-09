@@ -5,15 +5,8 @@
         <description><![CDATA[lat]]></description>
         <link>https://thegrid.ai/lat/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 09 Oct 2015 04:06:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Oct 2015 04:06:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lat/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Standy]]></title>
-            <description><![CDATA[<article><h1>Standy</h1><p>An experimental product while at @ObviousCorp. Your very own personal dashboard. A more efficient way to update, motivate and communicate with the rest of the team.</p></article>]]></description>
-            <link>https://www.behance.net/gallery/7225913/Standy</link>
-            <guid isPermaLink="false">27d90072-c463-43b3-aedc-fbe401ce297e</guid>
-            <pubDate>Fri, 09 Oct 2015 04:04:03 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Medium Brand Development]]></title>
             <description><![CDATA[<article><h1>Medium Brand Development</h1><p>Brand development of Medium.com</p></article>]]></description>
@@ -75,6 +68,13 @@
             <description><![CDATA[<article><h1>The Grid: Website (Free PSDs)</h1><p>These PSDs aim to give you an introduction to what approach we used at the Grid. Similar to the design frameworks that are gaining popularity today but with a move to creating systems over sets, guidelines over absolutes and a direction that can move from heuristic to code.</p></article>]]></description>
             <link>https://www.behance.net/gallery/21817975/The-Grid-Website-(Free-PSDs)</link>
             <guid isPermaLink="false">c7d885f2-e9d8-4be5-8ac8-42aef949514f</guid>
+            <pubDate>Fri, 09 Oct 2015 04:04:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://mir-s3-cdn-cf.behance.net/projects/404/20326265.5434366526990.png">]]></description>
+            <link>https://thegrid.ai/lat/349ed46e-a892-4e83-bc55-fd53af684e01/index.html</link>
+            <guid isPermaLink="false">349ed46e-a892-4e83-bc55-fd53af684e01</guid>
             <pubDate>Fri, 09 Oct 2015 04:04:02 GMT</pubDate>
         </item>
     </channel>
