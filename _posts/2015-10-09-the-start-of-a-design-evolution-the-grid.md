@@ -50,8 +50,8 @@ app_links:
     type: web
 isBasedOnUrl: 'https://medium.com/the-grid/the-start-of-design-evolution-c5435706540c'
 title: The Start of a Design Evolution - The Grid
-datePublished: '2015-10-09T04:04:02.441Z'
-dateModified: '2015-10-09T04:03:08.153Z'
+datePublished: '2015-10-09T04:04:41.227Z'
+dateModified: '2015-10-09T04:04:02.441Z'
 sourcePath: _posts/2015-10-09-the-start-of-a-design-evolution-the-grid.md
 published: true
 inFeed: true
