@@ -50,8 +50,8 @@ app_links:
     type: web
 isBasedOnUrl: 'https://medium.com/the-grid/photoshop-is-not-a-design-tool-10489d3cc430'
 title: Photoshop is not a design tool. - The Grid
-datePublished: '2015-10-09T04:04:02.514Z'
-dateModified: '2015-10-09T04:02:58.956Z'
+datePublished: '2015-10-09T04:04:41.263Z'
+dateModified: '2015-10-09T04:04:02.514Z'
 sourcePath: _posts/2015-10-09-photoshop-is-not-a-design-tool-the-grid.md
 published: true
 inFeed: true
