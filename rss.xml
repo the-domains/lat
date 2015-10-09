@@ -5,8 +5,22 @@
         <description><![CDATA[lat]]></description>
         <link>https://thegrid.ai/lat/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 09 Oct 2015 04:05:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Oct 2015 04:05:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lat/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[GSS]]></title>
+            <description><![CDATA[<article><h1>GSS</h1><p>GSS (Grid Style Sheets) reimagines CSS layout & replaces the browser's layout engine with one that harnesses the Cassowary Constraint Solver - the same algorithm Apple uses to compute native layout.</p></article>]]></description>
+            <link>https://www.behance.net/gallery/14367411/GSS</link>
+            <guid isPermaLink="false">5fe2c9fb-32bb-4982-8db5-f5932621a3d0</guid>
+            <pubDate>Fri, 09 Oct 2015 04:04:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brightwire Brand]]></title>
+            <description><![CDATA[<article><h1>Brightwire Brand</h1><p>We worked closely with the brilliant team at Brightwire to realign their brand purpose and deliver a collaborative space for readers to engage with writers.</p></article>]]></description>
+            <link>https://www.behance.net/gallery/21931335/Brightwire-Brand</link>
+            <guid isPermaLink="false">98f204a7-8dec-4b54-a640-b8a51501a171</guid>
+            <pubDate>Fri, 09 Oct 2015 04:04:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Grid: Website (Free PSDs)]]></title>
             <description><![CDATA[<article><h1>The Grid: Website (Free PSDs)</h1><p>These PSDs aim to give you an introduction to what approach we used at the Grid. Similar to the design frameworks that are gaining popularity today but with a move to creating systems over sets, guidelines over absolutes and a direction that can move from heuristic to code.</p></article>]]></description>
@@ -61,13 +75,6 @@
             <description><![CDATA[<article><h1>The Start of a Design Evolution - The Grid</h1><p>The Start of a Design Evolution - The Grid - Medium</p></article>]]></description>
             <link>https://medium.com/the-grid/the-start-of-design-evolution-c5435706540c</link>
             <guid isPermaLink="false">32f48699-cad9-4f89-813a-4dc9875d2c9d</guid>
-            <pubDate>Fri, 09 Oct 2015 04:04:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sign Up | LinkedIn]]></title>
-            <description><![CDATA[<article><h1>Sign Up &vert; LinkedIn</h1><p></p></article>]]></description>
-            <link>https://www.linkedin.com/profile/view?id=AAIAAACsotcBK88Waqh518e41TeHa1AWjauE4C8&amp;trk=nav_responsive_tab_profile</link>
-            <guid isPermaLink="false">d5e3b134-6c35-4b10-a23f-74aad8198dd0</guid>
             <pubDate>Fri, 09 Oct 2015 04:04:02 GMT</pubDate>
         </item>
     </channel>
