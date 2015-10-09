@@ -25,8 +25,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://www.behance.net/gallery/23081617/Gravita-Website'
 title: Gravita Website
-datePublished: '2015-10-09T04:04:02.760Z'
-dateModified: '2015-10-09T04:02:25.116Z'
+datePublished: '2015-10-09T04:04:42.010Z'
+dateModified: '2015-10-09T04:04:02.760Z'
 sourcePath: _posts/2015-10-09-gravita-website.md
 published: true
 inFeed: true
