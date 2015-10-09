@@ -5,29 +5,8 @@
         <description><![CDATA[lat]]></description>
         <link>https://thegrid.ai/lat/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 09 Oct 2015 04:06:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Oct 2015 04:06:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lat/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Mindful Collaboration]]></title>
-            <description><![CDATA[<article><h1>Mindful Collaboration</h1><p>A years review growing a creative studio with Holacracy. A little over three years ago I was part of the initial team at Obvious Corp. Founded by the same people who created Twitter. Later we spun out this loving platform Medium.com. This is where I was the first time I was introduced to Holacracy.</p><img src="https://cdn-images-1.medium.com/max/2000/1*h-I6-pYA0LLTjlM5TXEiQA.jpeg"></article>]]></description>
-            <link>https://medium.com/@lat/mindful-collaboration-9336a29268cb</link>
-            <guid isPermaLink="false">4236399b-a0b2-44a0-962b-658af07e023e</guid>
-            <pubDate>Fri, 09 Oct 2015 04:04:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Leigh Taylor (leigh.taylor) on about.me]]></title>
-            <description><![CDATA[<article><h1>Leigh Taylor (leigh.taylor) on about.me</h1><p>View Leigh Taylor on about.me. About.me makes it easy for you to learn about Leigh Taylor's background and interests.</p><img src="http://o.aolcdn.com/dims-global/dims/ABOUTME/5/200/200/100/http://d3mod6n032mdiz.cloudfront.net/thumb2/l/e/i/leigh.taylor/leigh.taylor-840x560.jpg"></article>]]></description>
-            <link>https://about.me/leigh.taylor</link>
-            <guid isPermaLink="false">cd035aad-91a2-4b8a-b912-267d390ef04e</guid>
-            <pubDate>Fri, 09 Oct 2015 04:04:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Photoshop is not a design tool. - The Grid]]></title>
-            <description><![CDATA[<article><h1>Photoshop is not a design tool. - The Grid</h1><p>Photoshop is not a design tool. - The Grid - Medium</p></article>]]></description>
-            <link>https://medium.com/the-grid/photoshop-is-not-a-design-tool-10489d3cc430</link>
-            <guid isPermaLink="false">2111f344-025f-442d-bdd6-e5808417dbdc</guid>
-            <pubDate>Fri, 09 Oct 2015 04:04:41 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Let's Make Code More Playful! - The Grid]]></title>
             <description><![CDATA[<article><h1>Let's Make Code More Playful! - The Grid</h1><p>Let's Make Code More Playful! - The Grid - Medium</p></article>]]></description>
@@ -75,6 +54,27 @@
             <description><![CDATA[<article><h1>VisitBritain Design Guideline</h1><p>A Gravita.co collaboration with GeoCastTV for the platform design development of VisitBritainTV.</p></article>]]></description>
             <link>https://www.behance.net/gallery/12058103/VisitBritain-Design-Guideline</link>
             <guid isPermaLink="false">b6ef2981-aacf-46ca-aa3c-ec50baaaa178</guid>
+            <pubDate>Fri, 09 Oct 2015 04:04:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Superfeet Concept]]></title>
+            <description><![CDATA[<article><h1>Superfeet Concept</h1><p>Initial conceptual design in partnership with Blue Collar Interactive</p></article>]]></description>
+            <link>https://www.behance.net/gallery/10109497/Superfeet-Concept</link>
+            <guid isPermaLink="false">0e4b73a8-6b8b-4ee3-95fa-f10c0fd29a97</guid>
+            <pubDate>Fri, 09 Oct 2015 04:04:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NoFlo Environment UI]]></title>
+            <description><![CDATA[<article><h1>NoFlo Environment UI</h1><p>Software begins as boxes & arrows on a whiteboard, let's keep it that way! Imagine, a platform that eliminates spaghetti code...NoFlo moves code out of applications and into reusable components that can be visually wired together by doers, not just code...</p></article>]]></description>
+            <link>https://www.behance.net/gallery/10114717/NoFlo-Environment-UI</link>
+            <guid isPermaLink="false">7f805706-e17e-4f77-bd18-98d4efb0e1ed</guid>
+            <pubDate>Fri, 09 Oct 2015 04:04:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[GSS]]></title>
+            <description><![CDATA[<article><h1>GSS</h1><p>GSS (Grid Style Sheets) reimagines CSS layout & replaces the browser's layout engine with one that harnesses the Cassowary Constraint Solver - the same algorithm Apple uses to compute native layout.</p></article>]]></description>
+            <link>https://www.behance.net/gallery/14367411/GSS</link>
+            <guid isPermaLink="false">5fe2c9fb-32bb-4982-8db5-f5932621a3d0</guid>
             <pubDate>Fri, 09 Oct 2015 04:04:03 GMT</pubDate>
         </item>
     </channel>
