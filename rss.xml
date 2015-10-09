@@ -5,8 +5,15 @@
         <description><![CDATA[lat]]></description>
         <link>https://thegrid.ai/lat/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 09 Oct 2015 04:08:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Oct 2015 04:09:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lat/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Grid designed by Leigh Taylor]]></title>
+            <description><![CDATA[<article><h1>The Grid designed by Leigh Taylor</h1><img src="http://www.cssdesignawards.com/cdasites/2015/201502/20150218144540.jpg"></article>]]></description>
+            <link>http://www.cssdesignawards.com/sites/the-grid/26017/</link>
+            <guid isPermaLink="false">ea166d4e-d7d8-4b9f-9385-65dbb610327d</guid>
+            <pubDate>Fri, 09 Oct 2015 04:09:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Dribbble - Leigh Taylor]]></title>
             <description><![CDATA[<article><h1>Dribbble - Leigh Taylor</h1><p>The Grid: Mobile</p><img src="https://d13yacurqjgara.cloudfront.net/users/4062/screenshots/1794057/brightwire-app_teaser.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>Superfeet Concept</h1><p>Initial conceptual design in partnership with Blue Collar Interactive</p></article>]]></description>
             <link>https://www.behance.net/gallery/10109497/Superfeet-Concept</link>
             <guid isPermaLink="false">0e4b73a8-6b8b-4ee3-95fa-f10c0fd29a97</guid>
-            <pubDate>Fri, 09 Oct 2015 04:04:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://mir-s3-cdn-cf.behance.net/projects/404/20326265.5434366526990.png">]]></description>
-            <link>https://thegrid.ai/lat/349ed46e-a892-4e83-bc55-fd53af684e01/index.html</link>
-            <guid isPermaLink="false">349ed46e-a892-4e83-bc55-fd53af684e01</guid>
             <pubDate>Fri, 09 Oct 2015 04:04:42 GMT</pubDate>
         </item>
     </channel>
