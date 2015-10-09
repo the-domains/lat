@@ -25,8 +25,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://www.behance.net/gallery/21931335/Brightwire-Brand'
 title: Brightwire Brand
-datePublished: '2015-10-09T04:04:03.060Z'
-dateModified: '2015-10-09T04:02:14.241Z'
+datePublished: '2015-10-09T04:04:42.117Z'
+dateModified: '2015-10-09T04:04:03.060Z'
 sourcePath: _posts/2015-10-09-brightwire-brand.md
 published: true
 inFeed: true
