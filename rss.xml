@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[lat]]></title>
+        <description><![CDATA[lat]]></description>
+        <link>https://thegrid.ai/lat/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 09 Oct 2015 04:05:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lat/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Photoshop is not a design tool. - The Grid]]></title>
+            <description><![CDATA[<article><h1>Photoshop is not a design tool. - The Grid</h1><p>Photoshop is not a design tool. - The Grid - Medium</p></article>]]></description>
+            <link>https://medium.com/the-grid/photoshop-is-not-a-design-tool-10489d3cc430</link>
+            <guid isPermaLink="false">2111f344-025f-442d-bdd6-e5808417dbdc</guid>
+            <pubDate>Fri, 09 Oct 2015 04:04:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Start of a Design Evolution - The Grid]]></title>
+            <description><![CDATA[<article><h1>The Start of a Design Evolution - The Grid</h1><p>The Start of a Design Evolution - The Grid - Medium</p></article>]]></description>
+            <link>https://medium.com/the-grid/the-start-of-design-evolution-c5435706540c</link>
+            <guid isPermaLink="false">32f48699-cad9-4f89-813a-4dc9875d2c9d</guid>
+            <pubDate>Fri, 09 Oct 2015 04:04:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sign Up | LinkedIn]]></title>
+            <description><![CDATA[<article><h1>Sign Up &vert; LinkedIn</h1><p></p></article>]]></description>
+            <link>https://www.linkedin.com/profile/view?id=AAIAAACsotcBK88Waqh518e41TeHa1AWjauE4C8&amp;trk=nav_responsive_tab_profile</link>
+            <guid isPermaLink="false">d5e3b134-6c35-4b10-a23f-74aad8198dd0</guid>
+            <pubDate>Fri, 09 Oct 2015 04:04:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
