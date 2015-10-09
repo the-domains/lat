@@ -5,8 +5,15 @@
         <description><![CDATA[lat]]></description>
         <link>https://thegrid.ai/lat/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 09 Oct 2015 04:07:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Oct 2015 04:07:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lat/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[NoFlo Environment UI]]></title>
+            <description><![CDATA[<article><h1>NoFlo Environment UI</h1><p>Software begins as boxes & arrows on a whiteboard, let's keep it that way! Imagine, a platform that eliminates spaghetti code...NoFlo moves code out of applications and into reusable components that can be visually wired together by doers, not just code...</p></article>]]></description>
+            <link>https://www.behance.net/gallery/10114717/NoFlo-Environment-UI</link>
+            <guid isPermaLink="false">7f805706-e17e-4f77-bd18-98d4efb0e1ed</guid>
+            <pubDate>Fri, 09 Oct 2015 04:04:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Superfeet Concept]]></title>
             <description><![CDATA[<article><h1>Superfeet Concept</h1><p>Initial conceptual design in partnership with Blue Collar Interactive</p></article>]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>Mindful Collaboration</h1><p>A years review growing a creative studio with Holacracy. A little over three years ago I was part of the initial team at Obvious Corp. Founded by the same people who created Twitter. Later we spun out this loving platform Medium.com. This is where I was the first time I was introduced to Holacracy.</p><img src="https://cdn-images-1.medium.com/max/2000/1*h-I6-pYA0LLTjlM5TXEiQA.jpeg"></article>]]></description>
             <link>https://medium.com/@lat/mindful-collaboration-9336a29268cb</link>
             <guid isPermaLink="false">4236399b-a0b2-44a0-962b-658af07e023e</guid>
-            <pubDate>Fri, 09 Oct 2015 04:04:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Leigh Taylor (leigh.taylor) on about.me]]></title>
-            <description><![CDATA[<article><h1>Leigh Taylor (leigh.taylor) on about.me</h1><p>View Leigh Taylor on about.me. About.me makes it easy for you to learn about Leigh Taylor's background and interests.</p><img src="http://o.aolcdn.com/dims-global/dims/ABOUTME/5/200/200/100/http://d3mod6n032mdiz.cloudfront.net/thumb2/l/e/i/leigh.taylor/leigh.taylor-840x560.jpg"></article>]]></description>
-            <link>https://about.me/leigh.taylor</link>
-            <guid isPermaLink="false">cd035aad-91a2-4b8a-b912-267d390ef04e</guid>
             <pubDate>Fri, 09 Oct 2015 04:04:41 GMT</pubDate>
         </item>
     </channel>
