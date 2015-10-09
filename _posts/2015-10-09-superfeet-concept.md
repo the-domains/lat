@@ -15,8 +15,8 @@ inLanguage: fr
 app_links: []
 isBasedOnUrl: 'https://www.behance.net/gallery/10109497/Superfeet-Concept'
 title: Superfeet Concept
-datePublished: '2015-10-09T04:04:03.428Z'
-dateModified: '2015-10-09T04:00:58.964Z'
+datePublished: '2015-10-09T04:04:42.412Z'
+dateModified: '2015-10-09T04:04:03.428Z'
 sourcePath: _posts/2015-10-09-superfeet-concept.md
 published: true
 inFeed: true
