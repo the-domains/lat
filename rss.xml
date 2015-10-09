@@ -5,8 +5,15 @@
         <description><![CDATA[lat]]></description>
         <link>https://thegrid.ai/lat/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 09 Oct 2015 04:07:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Oct 2015 04:07:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lat/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[VisitBritain Design Guideline]]></title>
+            <description><![CDATA[<article><h1>VisitBritain Design Guideline</h1><p>A Gravita.co collaboration with GeoCastTV for the platform design development of VisitBritainTV.</p></article>]]></description>
+            <link>https://www.behance.net/gallery/12058103/VisitBritain-Design-Guideline</link>
+            <guid isPermaLink="false">b6ef2981-aacf-46ca-aa3c-ec50baaaa178</guid>
+            <pubDate>Fri, 09 Oct 2015 04:04:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[NoFlo Environment UI]]></title>
             <description><![CDATA[<article><h1>NoFlo Environment UI</h1><p>Software begins as boxes & arrows on a whiteboard, let's keep it that way! Imagine, a platform that eliminates spaghetti code...NoFlo moves code out of applications and into reusable components that can be visually wired together by doers, not just code...</p></article>]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>The Grid: Platform</h1><p>Working designs of the Grid platform. A collection of conceptualisations of what is currently being developed. *Subject to change for something more awesome.</p></article>]]></description>
             <link>https://www.behance.net/gallery/26329337/The-Grid-Platform</link>
             <guid isPermaLink="false">05f82707-3317-46fa-8a3d-64f9ec733903</guid>
-            <pubDate>Fri, 09 Oct 2015 04:04:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mindful Collaboration]]></title>
-            <description><![CDATA[<article><h1>Mindful Collaboration</h1><p>A years review growing a creative studio with Holacracy. A little over three years ago I was part of the initial team at Obvious Corp. Founded by the same people who created Twitter. Later we spun out this loving platform Medium.com. This is where I was the first time I was introduced to Holacracy.</p><img src="https://cdn-images-1.medium.com/max/2000/1*h-I6-pYA0LLTjlM5TXEiQA.jpeg"></article>]]></description>
-            <link>https://medium.com/@lat/mindful-collaboration-9336a29268cb</link>
-            <guid isPermaLink="false">4236399b-a0b2-44a0-962b-658af07e023e</guid>
             <pubDate>Fri, 09 Oct 2015 04:04:41 GMT</pubDate>
         </item>
     </channel>
