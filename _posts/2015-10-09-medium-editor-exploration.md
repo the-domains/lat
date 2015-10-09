@@ -25,8 +25,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://www.behance.net/gallery/7281451/Medium-Editor-Exploration'
 title: 'Medium: Editor Exploration'
-datePublished: '2015-10-09T04:04:03.662Z'
-dateModified: '2015-10-09T04:00:50.583Z'
+datePublished: '2015-10-09T04:04:42.677Z'
+dateModified: '2015-10-09T04:04:03.662Z'
 sourcePath: _posts/2015-10-09-medium-editor-exploration.md
 published: true
 inFeed: true
