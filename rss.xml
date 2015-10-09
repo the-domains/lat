@@ -5,8 +5,15 @@
         <description><![CDATA[lat]]></description>
         <link>https://thegrid.ai/lat/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 09 Oct 2015 04:07:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Oct 2015 04:07:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lat/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Medium: Editor Exploration]]></title>
+            <description><![CDATA[<article><h1>Medium: Editor Exploration</h1><p>One of the things we always strived for at Medium is to reduce the anxiety to create. If Medium could deliver a system that reassured authors that their posts would always be legible, as created and presented beautifully. No worry about set-up, maintenance, input boxes and deliver a true WYSIWYG.</p></article>]]></description>
+            <link>https://www.behance.net/gallery/7281451/Medium-Editor-Exploration</link>
+            <guid isPermaLink="false">8ddca78a-3a82-429c-90a0-e0716a7d30c0</guid>
+            <pubDate>Fri, 09 Oct 2015 04:04:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[VisitBritain Design Guideline]]></title>
             <description><![CDATA[<article><h1>VisitBritain Design Guideline</h1><p>A Gravita.co collaboration with GeoCastTV for the platform design development of VisitBritainTV.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>Sign Up &vert; LinkedIn</h1><p></p></article>]]></description>
             <link>https://www.linkedin.com/profile/view?id=AAIAAACsotcBK88Waqh518e41TeHa1AWjauE4C8&amp;trk=nav_responsive_tab_profile</link>
             <guid isPermaLink="false">d5e3b134-6c35-4b10-a23f-74aad8198dd0</guid>
-            <pubDate>Fri, 09 Oct 2015 04:04:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Grid: Platform]]></title>
-            <description><![CDATA[<article><h1>The Grid: Platform</h1><p>Working designs of the Grid platform. A collection of conceptualisations of what is currently being developed. *Subject to change for something more awesome.</p></article>]]></description>
-            <link>https://www.behance.net/gallery/26329337/The-Grid-Platform</link>
-            <guid isPermaLink="false">05f82707-3317-46fa-8a3d-64f9ec733903</guid>
             <pubDate>Fri, 09 Oct 2015 04:04:41 GMT</pubDate>
         </item>
     </channel>
