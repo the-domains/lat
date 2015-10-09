@@ -5,8 +5,22 @@
         <description><![CDATA[lat]]></description>
         <link>https://thegrid.ai/lat/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 09 Oct 2015 04:09:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Oct 2015 04:09:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lat/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Grid - Hello Beta]]></title>
+            <description><![CDATA[<article><h1>The Grid - Hello Beta</h1><p>Hello Founding Members! A message from our team about what you can expect fromThe Grid Beta as we begin rollout.</p><img src="https://i.ytimg.com/vi/Itv1Di5-NOM/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=Itv1Di5-NOM</link>
+            <guid isPermaLink="false">0d727593-7a07-4134-a5df-6356701348ec</guid>
+            <pubDate>Fri, 09 Oct 2015 04:09:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How The Grid Will Automate Web Design Without Killing The Designer]]></title>
+            <description><![CDATA[<article><h1>How The Grid Will Automate Web Design Without Killing The Designer</h1><p>Can you replace a human designer with artificial intelligence and machine learning? That's the question, more or less, which will likely plague The Grid long after the company launches its new website creation and hosting platform. The Grid's sales pitch is that creating a beautiful looking website geared towards your intentions shouldn't be harder than giving it content-images, videos, and text.</p><img src="http://g.fastcompany.net/multisite_files/fastcompany/imagecache/inline-large/inline/2015/04/3044670-inline-i-4-grid-shell.jpg"></article>]]></description>
+            <link>http://www.fastcodesign.com/3044670/how-the-grid-will-automate-web-design-without-killing-the-designer</link>
+            <guid isPermaLink="false">4b0b54b4-51f7-4c7d-be29-4a1eeb1d142c</guid>
+            <pubDate>Fri, 09 Oct 2015 04:09:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Grid designed by Leigh Taylor]]></title>
             <description><![CDATA[<article><h1>The Grid designed by Leigh Taylor</h1><img src="http://www.cssdesignawards.com/cdasites/2015/201502/20150218144540.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <description><![CDATA[<article><h1>VisitBritain Design Guideline</h1><p>A Gravita.co collaboration with GeoCastTV for the platform design development of VisitBritainTV.</p></article>]]></description>
             <link>https://www.behance.net/gallery/12058103/VisitBritain-Design-Guideline</link>
             <guid isPermaLink="false">b6ef2981-aacf-46ca-aa3c-ec50baaaa178</guid>
-            <pubDate>Fri, 09 Oct 2015 04:04:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NoFlo Environment UI]]></title>
-            <description><![CDATA[<article><h1>NoFlo Environment UI</h1><p>Software begins as boxes & arrows on a whiteboard, let's keep it that way! Imagine, a platform that eliminates spaghetti code...NoFlo moves code out of applications and into reusable components that can be visually wired together by doers, not just code...</p></article>]]></description>
-            <link>https://www.behance.net/gallery/10114717/NoFlo-Environment-UI</link>
-            <guid isPermaLink="false">7f805706-e17e-4f77-bd18-98d4efb0e1ed</guid>
-            <pubDate>Fri, 09 Oct 2015 04:04:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Superfeet Concept]]></title>
-            <description><![CDATA[<article><h1>Superfeet Concept</h1><p>Initial conceptual design in partnership with Blue Collar Interactive</p></article>]]></description>
-            <link>https://www.behance.net/gallery/10109497/Superfeet-Concept</link>
-            <guid isPermaLink="false">0e4b73a8-6b8b-4ee3-95fa-f10c0fd29a97</guid>
             <pubDate>Fri, 09 Oct 2015 04:04:42 GMT</pubDate>
         </item>
     </channel>
