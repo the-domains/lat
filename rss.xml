@@ -5,8 +5,15 @@
         <description><![CDATA[lat]]></description>
         <link>https://thegrid.ai/lat/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 09 Oct 2015 04:08:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Oct 2015 04:08:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lat/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dribbble - Leigh Taylor]]></title>
+            <description><![CDATA[<article><h1>Dribbble - Leigh Taylor</h1><p>The Grid: Mobile</p><img src="https://d13yacurqjgara.cloudfront.net/users/4062/screenshots/1794057/brightwire-app_teaser.jpg"></article>]]></description>
+            <link>https://dribbble.com/leightaylor</link>
+            <guid isPermaLink="false">191e5da2-9230-4015-ab0b-7e70e5102a63</guid>
+            <pubDate>Fri, 09 Oct 2015 04:04:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>The latest Tweets from Leigh Taylor (@lat). Winging it at design. AI wrangler. Code massager. Dealer of gifs. Easily distrac...unce unce unce. @theGrid</p>]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<img src="https://mir-s3-cdn-cf.behance.net/projects/404/20326265.5434366526990.png">]]></description>
             <link>https://thegrid.ai/lat/349ed46e-a892-4e83-bc55-fd53af684e01/index.html</link>
             <guid isPermaLink="false">349ed46e-a892-4e83-bc55-fd53af684e01</guid>
-            <pubDate>Fri, 09 Oct 2015 04:04:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GSS]]></title>
-            <description><![CDATA[<article><h1>GSS</h1><p>GSS (Grid Style Sheets) reimagines CSS layout & replaces the browser's layout engine with one that harnesses the Cassowary Constraint Solver - the same algorithm Apple uses to compute native layout.</p></article>]]></description>
-            <link>https://www.behance.net/gallery/14367411/GSS</link>
-            <guid isPermaLink="false">5fe2c9fb-32bb-4982-8db5-f5932621a3d0</guid>
             <pubDate>Fri, 09 Oct 2015 04:04:42 GMT</pubDate>
         </item>
     </channel>
