@@ -25,8 +25,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://www.behance.net/gallery/7226653/Medium-Brand-Development'
 title: Medium Brand Development
-datePublished: '2015-10-09T04:04:03.713Z'
-dateModified: '2015-10-09T04:00:24.365Z'
+datePublished: '2015-10-09T04:04:43.038Z'
+dateModified: '2015-10-09T04:04:03.713Z'
 sourcePath: _posts/2015-10-09-medium-brand-development.md
 published: true
 inFeed: true
