@@ -5,8 +5,15 @@
         <description><![CDATA[lat]]></description>
         <link>https://thegrid.ai/lat/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 09 Oct 2015 09:11:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Oct 2015 22:05:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lat/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Grid: Platform]]></title>
+            <description><![CDATA[<article><h1>The Grid: Platform</h1><p>Working designs of the Grid platform. A collection of conceptualisations of what is currently being developed. *Subject to change for something more awesome.</p></article>]]></description>
+            <link>https://www.behance.net/gallery/26329337/The-Grid-Platform</link>
+            <guid isPermaLink="false">05f82707-3317-46fa-8a3d-64f9ec733903</guid>
+            <pubDate>Mon, 12 Oct 2015 22:04:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
             <description><![CDATA[<article><h1>AI Websites That Design Themselves</h1><p>This is not another do-it-yourself website builder. The Grid harnesses the power of artificial intelligence to take everything you throw at it - videos, images, text, urls and more - and automatically shape them into a custom website unique to you. As your needs grow, it evolves with you, effortlessly adapting to your needs.</p><img src="http://s3-us-west-2.amazonaws.com/cdn.thegrid.io/assets/images/purus-fb.png"></article>]]></description>
