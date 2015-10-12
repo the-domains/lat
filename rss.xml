@@ -5,7 +5,7 @@
         <description><![CDATA[lat]]></description>
         <link>https://thegrid.ai/lat/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 12 Oct 2015 22:05:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Oct 2015 22:16:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lat/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Grid: Platform]]></title>
@@ -62,13 +62,6 @@
             <link>https://twitter.com/lat</link>
             <guid isPermaLink="false">7316ec30-76c8-416a-8004-9aa8e401049d</guid>
             <pubDate>Fri, 09 Oct 2015 04:04:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/b593aa55417183.5609846ae722a.jpg">]]></description>
-            <link>https://thegrid.ai/lat/e49cd5d9-1491-46dc-a16c-4d3979ee5ce1/index.html</link>
-            <guid isPermaLink="false">e49cd5d9-1491-46dc-a16c-4d3979ee5ce1</guid>
-            <pubDate>Fri, 09 Oct 2015 04:04:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
