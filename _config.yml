@@ -1,26 +1,38 @@
-name: lat
 favicon: null
-layout_spectrum: 0.9715083441697061
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors: []
-  brandStrength: 0
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose:
   - name: follow
-    item: null
     url: null
-typography_spectrum: 0.28000210667960346
+    item: null
+typography_spectrum: 0.5257788
+color:
+  saturation: 0.1186896
+  lightness: 0.7180451
+  brandStrength: 1
+  brandColors: []
+  rhythmicContrast: 0.1895811
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.4849624
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: lat
