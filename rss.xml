@@ -1,12 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title><![CDATA[lat]]></title>
         <description><![CDATA[lat]]></description>
         <link>https://thegrid.ai/lat/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 13 Oct 2015 07:03:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Nov 2015 17:03:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lat/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Grid designed by Leigh Taylor]]></title>
+            <description><![CDATA[<article><h1>The Grid designed by Leigh Taylor</h1><img src="http://www.cssdesignawards.com/cdasites/2015/201502/20150218144540.jpg"></article>]]></description>
+            <link>http://www.cssdesignawards.com/sites/the-grid/26017/</link>
+            <guid isPermaLink="false">ea166d4e-d7d8-4b9f-9385-65dbb610327d</guid>
+            <pubDate>Tue, 27 Oct 2015 19:06:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://mir-s3-cdn-cf.behance.net/projects/404/20326265.5434366526990.png">]]></description>
+            <link>https://thegrid.ai/lat/349ed46e-a892-4e83-bc55-fd53af684e01/index.html</link>
+            <guid isPermaLink="false">349ed46e-a892-4e83-bc55-fd53af684e01</guid>
+            <pubDate>Mon, 02 Nov 2015 17:02:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Grid: Platform]]></title>
             <description><![CDATA[<article><h1>The Grid: Platform</h1><p>Working designs of the Grid platform. A collection of conceptualisations of what is currently being developed. *Subject to change for something more awesome.</p></article>]]></description>
@@ -41,13 +54,6 @@
             <link>http://www.fastcodesign.com/3044670/how-the-grid-will-automate-web-design-without-killing-the-designer</link>
             <guid isPermaLink="false">4b0b54b4-51f7-4c7d-be29-4a1eeb1d142c</guid>
             <pubDate>Fri, 09 Oct 2015 04:09:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Grid designed by Leigh Taylor]]></title>
-            <description><![CDATA[<article><h1>The Grid designed by Leigh Taylor</h1><img src="http://www.cssdesignawards.com/cdasites/2015/201502/20150218144540.jpg"></article>]]></description>
-            <link>http://www.cssdesignawards.com/sites/the-grid/26017/</link>
-            <guid isPermaLink="false">ea166d4e-d7d8-4b9f-9385-65dbb610327d</guid>
-            <pubDate>Fri, 09 Oct 2015 09:10:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dribbble - Leigh Taylor]]></title>
