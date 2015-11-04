@@ -1,4 +1,4 @@
-favicon: null
+name: lat
 opengraph:
   image: null
   type: null
@@ -9,30 +9,35 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose:
   - name: follow
     url: null
     item: null
-typography_spectrum: 0.5257788
 color:
   saturation: 0.1186896
   lightness: 0.7180451
-  brandStrength: 1
-  brandColors: []
+  brandStrength: 0.5719656
+  brandColors:
+    - '#000000'
+    - '#779BC7'
+    - '#FFFEFF'
+    - '#6E5B3A'
+    - '#FFCC00'
   rhythmicContrast: 0.1895811
+typography_spectrum: 0.5257788
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.4849624
 analytics:
   twitter: null
   google: null
   facebook: null
-name: lat
+favicon: null
+layout_spectrum: 0.4849624
