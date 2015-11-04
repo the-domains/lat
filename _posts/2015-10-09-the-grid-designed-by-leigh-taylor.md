@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.cssdesignawards.com/sites/the-grid/26017/'
 title: The Grid designed by Leigh Taylor
-datePublished: '2015-10-27T19:06:16.650Z'
-dateModified: '2015-10-20T17:29:09.041Z'
+datePublished: '2015-11-04T19:53:40.852Z'
+dateModified: '2015-10-27T19:06:16.650Z'
 sourcePath: _posts/2015-10-09-the-grid-designed-by-leigh-taylor.md
 published: true
 inFeed: true
