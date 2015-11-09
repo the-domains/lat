@@ -1,73 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Inspiration]]></title>
-        <description><![CDATA[Inspiration]]></description>
-        <link>https://thegrid.ai/inspiration/</link>
+        <title><![CDATA[lat]]></title>
+        <description><![CDATA[lat]]></description>
+        <link>https://thegrid.ai/lat/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 Nov 2015 19:09:00 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/inspiration/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 09 Nov 2015 19:16:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lat/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Grid designed by Leigh Taylor]]></title>
             <description><![CDATA[<article><h1>The Grid designed by Leigh Taylor</h1><img src="http://www.cssdesignawards.com/cdasites/2015/201502/20150218144540.jpg"></article>]]></description>
             <link>http://www.cssdesignawards.com/sites/the-grid/26017/</link>
             <guid isPermaLink="false">ea166d4e-d7d8-4b9f-9385-65dbb610327d</guid>
-            <pubDate>Tue, 27 Oct 2015 19:06:16 GMT</pubDate>
+            <pubDate>Wed, 04 Nov 2015 19:53:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://mir-s3-cdn-cf.behance.net/projects/404/20326265.5434366526990.png">]]></description>
+            <link>https://thegrid.ai/lat/349ed46e-a892-4e83-bc55-fd53af684e01/index.html</link>
+            <guid isPermaLink="false">349ed46e-a892-4e83-bc55-fd53af684e01</guid>
+            <pubDate>Mon, 02 Nov 2015 17:02:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Grid: Platform]]></title>
+            <description><![CDATA[<article><h1>The Grid: Platform</h1><p>Working designs of the Grid platform. A collection of conceptualisations of what is currently being developed. *Subject to change for something more awesome.</p></article>]]></description>
+            <link>https://www.behance.net/gallery/26329337/The-Grid-Platform</link>
+            <guid isPermaLink="false">05f82707-3317-46fa-8a3d-64f9ec733903</guid>
+            <pubDate>Mon, 12 Oct 2015 22:04:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
             <description><![CDATA[<article><h1>AI Websites That Design Themselves</h1><p>This is not another do-it-yourself website builder. The Grid harnesses the power of artificial intelligence to take everything you throw at it - videos, images, text, urls and more - and automatically shape them into a custom website unique to you. As your needs grow, it evolves with you, effortlessly adapting to your needs.</p><img src="http://s3-us-west-2.amazonaws.com/cdn.thegrid.io/assets/images/purus-fb.png"></article>]]></description>
             <link>https://thegrid.io/</link>
             <guid isPermaLink="false">3e89f00c-4c3f-4804-8d4a-ce934beabb95</guid>
-            <pubDate>Mon, 02 Nov 2015 18:00:54 GMT</pubDate>
+            <pubDate>Fri, 09 Oct 2015 04:09:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Math animated gifs]]></title>
-            <description><![CDATA[<article><h1>Math animated gifs</h1><p>Imgur: full of all the magic and wonders of the Internet.</p><img src="http://i.imgur.com/Wmd5oL8.jpg?fb"></article>]]></description>
-            <link>https://thegrid.ai/inspiration/math-animated-gifs/index.html</link>
-            <guid isPermaLink="false">8fde5c31-1529-4e8b-a62f-58aece5e8d84</guid>
-            <pubDate>Tue, 20 Oct 2015 17:29:01 GMT</pubDate>
+            <title><![CDATA[The Grid - Hello Beta]]></title>
+            <description><![CDATA[<article><h1>The Grid - Hello Beta</h1><p>Hello Founding Members! A message from our team about what you can expect fromThe Grid Beta as we begin rollout.</p><img src="https://i.ytimg.com/vi/Itv1Di5-NOM/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=Itv1Di5-NOM</link>
+            <guid isPermaLink="false">0d727593-7a07-4134-a5df-6356701348ec</guid>
+            <pubDate>Fri, 09 Oct 2015 04:09:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Inner Geometry of Alchemical Emblems]]></title>
-            <description><![CDATA[<article><h1>The Inner Geometry of Alchemical Emblems</h1><p>null</p><img src="http://www.levity.com/alchemy/panel_texts.gif"></article>]]></description>
-            <link>https://thegrid.ai/inspiration/the-inner-geometry-of-alchemical-emblems/index.html</link>
-            <guid isPermaLink="false">32d0e0b6-5d86-4390-bab2-99452d489c3d</guid>
-            <pubDate>Tue, 01 Sep 2015 18:16:29 GMT</pubDate>
+            <title><![CDATA[How The Grid Will Automate Web Design Without Killing The Designer]]></title>
+            <description><![CDATA[<article><h1>How The Grid Will Automate Web Design Without Killing The Designer</h1><p>Can you replace a human designer with artificial intelligence and machine learning? That's the question, more or less, which will likely plague The Grid long after the company launches its new website creation and hosting platform. The Grid's sales pitch is that creating a beautiful looking website geared towards your intentions shouldn't be harder than giving it content-images, videos, and text.</p><img src="http://g.fastcompany.net/multisite_files/fastcompany/imagecache/inline-large/inline/2015/04/3044670-inline-i-4-grid-shell.jpg"></article>]]></description>
+            <link>http://www.fastcodesign.com/3044670/how-the-grid-will-automate-web-design-without-killing-the-designer</link>
+            <guid isPermaLink="false">4b0b54b4-51f7-4c7d-be29-4a1eeb1d142c</guid>
+            <pubDate>Fri, 09 Oct 2015 04:09:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Creating a Site - The Grid Knowledge Base]]></title>
-            <description><![CDATA[<article><h1>Creating a Site - The Grid Knowledge Base</h1><p>Once you're logged in to the Grid, you can put it to work immediately. See that circle-with-lines thingy over in the top left? Hover over that to pop out the Si</p><img src="http://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5586971de4b01a224b42d302/192.png"></article>]]></description>
-            <link>http://help.thegrid.io/article/38-beta-site-creation</link>
-            <guid isPermaLink="false">f45bcaa3-646a-467d-b05d-2b82fa1a411c</guid>
-            <pubDate>Tue, 20 Oct 2015 15:27:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Grid: Platform]]></title>
-            <description><![CDATA[<article><h1>The Grid: Platform</h1><p>Working designs of the Grid platform. A collection of conceptualisations of what is currently being developed. *Subject to change for something more awesome.</p></article>]]></description>
-            <link>https://www.behance.net/gallery/26329337/The-Grid-Platform</link>
-            <guid isPermaLink="false">24b34421-a2aa-425a-b7ff-83d520bad18b</guid>
-            <pubDate>Tue, 01 Sep 2015 18:16:28 GMT</pubDate>
+            <title><![CDATA[Dribbble - Leigh Taylor]]></title>
+            <description><![CDATA[<article><h1>Dribbble - Leigh Taylor</h1><p>The Grid: Mobile</p><img src="https://d13yacurqjgara.cloudfront.net/users/4062/screenshots/1794057/brightwire-app_teaser.jpg"></article>]]></description>
+            <link>https://dribbble.com/leightaylor</link>
+            <guid isPermaLink="false">191e5da2-9230-4015-ab0b-7e70e5102a63</guid>
+            <pubDate>Mon, 09 Nov 2015 19:15:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://the-grid-user-content.s3-us-west-2.amazonaws.com/a9aeac99-31d1-4073-ba4e-f40675a2f76a.png">]]></description>
-            <link>https://thegrid.ai/inspiration/89c428cf-d2c7-4be1-8f8a-465c92446957/index.html</link>
-            <guid isPermaLink="false">89c428cf-d2c7-4be1-8f8a-465c92446957</guid>
-            <pubDate>Tue, 01 Sep 2015 18:16:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pictures for Writing Ideas]]></title>
-            <description><![CDATA[<article><h1>Pictures for Writing Ideas</h1><p>Hello imgur! I have gathered these 5 pictures for use when I write short stories. I'm still a rookie but really enjoy writing these stories. If imgur is interested miught I post some of my work for you all to (hopefully) enjoy and constructively criticize? I'd much appreciate it!</p><img src="http://i.imgur.com/snirnKy.png"></article>]]></description>
-            <link>https://thegrid.ai/inspiration/pictures-for-writing-ideas/index.html</link>
-            <guid isPermaLink="false">dfadeffe-5395-4215-826f-4441a33953b0</guid>
-            <pubDate>Tue, 01 Sep 2015 18:16:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I've discovered a new sub called /r/Simulated and It's been blowing my fucking mind for over an hour. Check out some of my favorites]]></title>
-            <description><![CDATA[<article><h1>I've discovered a new sub called /r/Simulated and It's been blowing my fucking mind for over an hour. Check out some of my favorites</h1><p>Imgur: full of all the magic and wonders of the Internet.</p><img src="http://i.imgur.com/c0q4MGq.jpg?fb"></article>]]></description>
-            <link>http://m.imgur.com/gallery/coMjC</link>
-            <guid isPermaLink="false">ada6840c-c1df-4120-8b88-2570f1d7c7fb</guid>
-            <pubDate>Tue, 13 Oct 2015 07:03:30 GMT</pubDate>
+            <description><![CDATA[<p>The latest Tweets from Leigh Taylor (@lat). Winging it at design. AI wrangler. Code massager. Dealer of gifs. Easily distrac...unce unce unce. @theGrid</p>]]></description>
+            <link>https://twitter.com/lat</link>
+            <guid isPermaLink="false">7316ec30-76c8-416a-8004-9aa8e401049d</guid>
+            <pubDate>Fri, 09 Oct 2015 04:04:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
