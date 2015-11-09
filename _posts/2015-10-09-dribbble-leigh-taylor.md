@@ -2,10 +2,10 @@
 author: []
 related: []
 publisher:
-  url: 'https://dribbble.com'
   name: Dribbble
-  favicon: 'https://d13yacurqjgara.cloudfront.net/assets/dribbble-ball-192-42f0af56b162a1e84abec5b280cb99d0.png'
   domain: dribbble.com
+  url: 'https://dribbble.com'
+  favicon: 'https://d13yacurqjgara.cloudfront.net/assets/dribbble-ball-192-42f0af56b162a1e84abec5b280cb99d0.png'
 keywords:
   - grid
   - pixels
@@ -22,13 +22,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://dribbble.com/leightaylor'
 title: Dribbble - Leigh Taylor
-datePublished: '2015-10-09T04:04:53.763Z'
-dateModified: '2015-10-09T04:03:22.293Z'
+datePublished: '2015-11-09T19:15:42.860Z'
+dateModified: '2015-11-09T19:15:40.035Z'
 sourcePath: _posts/2015-10-09-dribbble-leigh-taylor.md
 published: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
