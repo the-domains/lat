@@ -1,6 +1,6 @@
 name: lat
 favicon: null
-layout_spectrum: 0.0483
+layout_spectrum: 0.27975
 typography_spectrum: 0.93169
 collections:
   - index:
@@ -33,9 +33,9 @@ color:
     - '#FFFEFF'
     - '#6E5B3A'
     - '#FFCC00'
-  brandStrength: 0.75
+  brandStrength: 0.5
   lightness: 0.25
-  saturation: 0.5
+  saturation: 0.8125
   rhythmicContrast: 0.25
 purpose:
   - name: follow
