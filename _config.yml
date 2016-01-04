@@ -33,10 +33,10 @@ color:
     - '#9d7a64'
     - '#292524'
     - '#ccb09b'
-  brandStrength: 0.25
-  lightness: 0.25
-  saturation: 0.8125
-  rhythmicContrast: 0.25
+  brandStrength: 0.75
+  lightness: 0.5625
+  saturation: 0.6875
+  rhythmicContrast: 0.5
 purpose:
   - name: follow
     url: null
