@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  name: Cssdesignawards
-  domain: www.cssdesignawards.com
-  url: 'http://www.cssdesignawards.com'
-  favicon: 'http://www.cssdesignawards.com/images/favicons/favicon.ico'
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.cssdesignawards.com/sites/the-grid/26017/'
+inLanguage: en
+starred: true
 keywords:
   - web
   - grid
@@ -18,19 +17,20 @@ keywords:
   - elegant
   - artificial
 description: ''
-inLanguage: en
+datePublished: '2016-01-07T17:03:58.466Z'
+dateModified: '2015-11-12T17:50:32.618Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.cssdesignawards.com/sites/the-grid/26017/'
 title: The Grid designed by Leigh Taylor
-datePublished: '2015-11-04T19:53:40.852Z'
-dateModified: '2015-10-27T19:06:16.650Z'
 sourcePath: _posts/2015-10-09-the-grid-designed-by-leigh-taylor.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
-starred: true
 authors: []
+publisher:
+  name: Cssdesignawards
+  domain: www.cssdesignawards.com
+  url: 'http://www.cssdesignawards.com'
+  favicon: 'http://www.cssdesignawards.com/images/favicons/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
